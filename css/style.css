@@ -1,0 +1,78 @@
+/* body {
+    font-family: IBM Plex Sans, Roboto, sans-serif;
+} */
+
+.navbar {
+    background-color: #413C4F;
+}
+
+.navbar-brand {
+    padding-right: 1em;
+}
+
+.vs-nav-icon {
+    color: White;
+    font-size: 2em;
+    padding-right: 20px;
+}
+
+.vs-basic-info {
+    line-height: 0.5;
+}
+
+.vs-contact-card {
+    background-color: #FFFFFF;
+}
+
+.vs-contact-icons {
+    font-size: 2em;
+}
+
+.vs-contact-icon-link {
+    color: #526590;
+}
+
+.vs-contact-other {
+    background-color: #526590;
+    color: #FFFFFF;
+    font-size: 1em;
+}
+
+.vs-heading {
+    color: #567CB9;
+}
+
+.vs-tl-heading {
+    color: #DD3942
+}
+
+/* .vs-photo-container {
+    align-items: flex-start;
+} */
+
+@media (min-width: 992px) {
+    .vs-photo {
+        width: 80%;
+        max-width: 100%;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .vs-photo {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+@media (min-width: 992px) {
+    .vs-card-parent {
+        width: 70%;
+    }
+}
+
+@media (max-width: 991.98px) {
+    .vs-card-parent {
+        width: 100%;
+    }
+}
+
