@@ -20,7 +20,7 @@ navbar:
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-subtitle >}}
-  **Professor and Data Science Faculty Fellow, Boston University**
+  **AI Professor and Amazon Scholar**
 {{< /hextra/hero-subtitle >}}
 </div>
 
@@ -61,9 +61,9 @@ Department of Computer Science (by courtesy)
 {{< /hextra/hero-section >}}
 </div>
 
-**Cross-Domain Adaptation**
+**In-Context Learning**: Meta-Learning, Contextual Reinforcement Learning
 
-**Open Set Recognition**: Zero-Shot Learning, Few-Shot Learning, Meta-Learning
+**Open Set Recognition**: Zero-Shot Learning, Few-Shot Learning, Cross-Modal Transfer
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-section header="h3" >}}
