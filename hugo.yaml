@@ -1,0 +1,48 @@
+baseURL: https://venkatesh-saligrama.github.io
+languageCode: en-us
+title: Venkatesh Saligrama
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: People
+      url: /people
+      weight: 2
+    - name: Publications
+      url: /pubs
+      weight: 3
+    - name: GitHub
+      url: https://github.com/venkatesh-saligrama
+      params:
+        weight: 4
+        icon: github
+    - name: Twitter
+      url: https://twitter.com/saligrama-lab
+      params:
+        weight: 5
+        icon: twitter
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false
+
+  footer:
+    enable: false
