@@ -13,10 +13,6 @@ toc: false
   - **Research**: In-Context Learning
 * [Kevin Miller](https://cs-people.bu.edu/nivek/) (co-advised with [Kate Saenko](https://ai.bu.edu/ksaenko.html))
   - **Research**: Domain Adaptation in Computer Vision
-* [Samarth Mishra](https://samarth4149.github.io/) (co-advised with [Kate Saenko](https://ai.bu.edu/ksaenko.html))
-  - **Research**: Learning with Limited Supervision
-* [Ruizhao Zhu](https://ruizhaoz.github.io/)
-  - **Research**: Efficient Training for Deep Learning
 
 ### Research Associates
 
@@ -26,8 +22,14 @@ toc: false
   - **Research**: Safe Bandits
 
 ## Alumni
-
+* [Samarth Mishra](https://samarth4149.github.io/) (co-advised with [Kate Saenko](https://ai.bu.edu/ksaenko.html) (PhD 2025)
+  - **Current**: SWE, Waymo
+  - **Research**: Learning with Limited Supervision
+* [Ruizhao Zhu](https://ruizhaoz.github.io/) (PhD 2024)
+  - **Current**: Applied Scientist, Amazon
+  - **Research**: Efficient Training for Deep Learning
 * [Tianrui Chen](https://www.linkedin.com/in/trchen/) (PhD 2024)
+  - **Current**: Applied Scientist, Amazon
   - **Research (BU)**: Safe Bandits
 * [Alp Emre Acar](https://www.linkedin.com/in/alp-emre-acar-335598149/) (PhD 2023)
   - **Current**: Senior Machine Learning Engineer, ARM
