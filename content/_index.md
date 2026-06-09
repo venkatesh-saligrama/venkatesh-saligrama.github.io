@@ -1,5 +1,5 @@
 ---
-title: Auditable and Resource-Aware Intelligence (Saligrama Lab)
+title: Venkatesh Saligrama
 toc: false
 layout: hextra-home
 navbar:
@@ -26,94 +26,96 @@ navbar:
 
 <div class="hx-mt-6 hx-mb-6">
 {{< hextra/hero-subtitle >}}
-I study the foundations and systems needed to build, evaluate, and deploy AI under constraints: limited supervision, limited compute, limited communication, imperfect feedback, and uncertain ground truth.
-{{< /hextra/hero-subtitle >}}
-</div>
+Department of Electrical and Computer Engineering
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-subtitle >}}
-Department of Electrical and Computer Engineering  
-Department of Computer Science (by courtesy)  
-8 St. Mary's Street, Room 438, Boston University, MA 02215  
+Department of Computer Science (by courtesy)
+
+8 St. Mary's Street, Room 438, Boston University, MA 02215
+
 {{< icon "mail" >}} **srv@bu (add dot edu)**
 {{< /hextra/hero-subtitle >}}
 </div>
 {{< /hextra/hero-container >}}
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section >}}
-  Research Vision
-{{< /hextra/hero-section >}}
-</div>
+# Research Vision
 
-Modern AI systems are no longer simple predictors trained and tested on fixed datasets. They reason over long contexts, use tools, produce open-ended outputs, interact with users, and are increasingly evaluated by other AI systems. This creates a central scientific challenge: **how do we learn, measure, and control intelligent systems when supervision, resources, and ground truth are all limited?**
+Modern AI systems operate under fundamental constraints. Data are limited, labels are expensive, computation is finite, communication is costly, and evaluation is often imperfect. Yet these systems are increasingly expected to make reliable decisions, reason over complex information, and interact with people and other AI systems.
 
-My lab develops mathematical frameworks, algorithms, and evaluation protocols for this setting. A recurring theme is that AI systems should not only make predictions; they should also know when to compute, when to defer, when to seek evidence, when to communicate, when to verify, and when their measurements are unreliable.
+My research develops the foundations and systems needed to learn, reason, and evaluate under such constraints. We combine ideas from machine learning, statistical inference, optimization, and AI evaluation to understand how intelligent systems can make effective use of limited information, resources, and feedback.
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section >}}
-  Research Programs
-{{< /hextra/hero-section >}}
-</div>
+A recurring theme across my work is that intelligence is not simply about prediction. It is also about deciding what information to acquire, what computation to perform, how to communicate, and when a conclusion should be trusted.
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section header="h3" >}}
-  Auditable AI Evaluation and Ground Truth
-{{< /hextra/hero-section >}}
-</div>
+# Current Research Programs
 
-We study the science of AI evaluation: how to measure AI systems, how to detect when those measurements are unreliable, and how to design protocols that make evaluation reproducible, diagnostic, and trustworthy.
+## AI Evaluation, Auditing, and Ground Truth
 
-Current work focuses on long-form factuality, AI judges, speech and multimodal evaluation, counterfactual audits, and evolving benchmarks. A central principle is that **ground truth is often a process, not a static dataset**: for complex AI outputs, reliable evaluation may require evidence, adjudication, revision, and versioning.
+As AI systems become more capable, evaluation itself is becoming a scientific challenge. Benchmarks saturate, expert labels disagree, and many outputs require evidence-based adjudication rather than simple annotation.
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section header="h3" >}}
-  Transformers, In-Context Learning, and Algorithm Discovery
-{{< /hextra/hero-section >}}
-</div>
+Our recent work studies how to construct reliable evaluations for long-form reasoning systems, AI judges, and multimodal agents. We develop protocols for auditing evaluation procedures, identifying failure modes, and building benchmarks whose ground truth can evolve as evidence accumulates.
 
-We investigate when neural architectures learn algorithms rather than simply fit predictors. Recent work studies how trained transformers can implement recursive state updates and, in some settings, can be simplified into explicit iterative procedures for solving structured problems.
+**Representative work**
 
-This line of work connects in-context learning, optimization, numerical linear algebra, representation geometry, and mechanistic understanding. The broader goal is to use trained architectures as a lens for discovering new algorithms and understanding how computation emerges from learned models.
+- DeepFact: Co-Evolving Benchmarks and Agents for Deep Research Factuality
+- TRACE: Counterfactual Audits for Audio-Language Judges
+- Evaluation protocols for AI judges and long-form factuality assessment
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section header="h3" >}}
-  Constraint-Aware Learning and Inference
-{{< /hextra/hero-section >}}
-</div>
+## Learning and Reasoning Under Constraints
 
-AI systems are deployed under operational constraints: computation is costly, communication is limited, labels are scarce, devices are heterogeneous, and errors have different consequences in different contexts. We develop algorithms that adapt to these constraints rather than ignoring them.
+Many real-world systems must operate with limited computation, communication, memory, or supervision.
 
-Topics include federated and distributed learning, adaptive inference, selective classification, test-time feature acquisition, hybrid edge/cloud inference, and budgeted decision-making. The goal is to build systems that can allocate computation, communication, supervision, and verification where they matter most.
+We develop algorithms that adapt to these constraints rather than ignoring them. Applications include federated learning, distributed optimization, adaptive inference, selective classification, and hybrid cloud-edge systems.
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section header="h3" >}}
-  Learning with Limited Supervision and Open Worlds
-{{< /hextra/hero-section >}}
-</div>
+**Representative work**
 
-A long-running theme in the lab is learning from limited, weak, or indirect supervision. We study how models generalize to new classes, new domains, and new modalities when labeled examples are scarce or absent.
+- FedDyn: Federated Learning Based on Dynamic Regularization
+- Adaptive Neural Networks for Efficient Inference
+- Test-Time Feature Acquisition and Budgeted Learning
+- Selective Classification and Hybrid Inference
 
-Topics include zero-shot learning, few-shot learning, open-set recognition, cross-modal transfer, meta-learning, contextual reinforcement learning, and representation learning. This work asks how statistical structure, semantic information, and geometry can substitute for direct labels.
+## Learning Beyond Direct Supervision
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section header="h3" >}}
-  Representation, Society, Graphs, and Networks
-{{< /hextra/hero-section >}}
-</div>
+Humans often learn with little direct supervision. AI systems should be able to do the same.
 
-We also study how learned representations shape downstream behavior in social, scientific, and networked settings. This includes work on bias in machine-learned representations, subgraph anomaly detection, community detection, network change detection, and estimation on graphs.
+Our work studies learning when labels are scarce, indirect, weak, or entirely absent. We investigate how semantic structure, contextual information, and prior knowledge can support generalization beyond observed training examples.
 
-Across these projects, the common objective is to understand how structure in data, networks, and representations affects learning, inference, and decision-making.
+**Representative work**
 
-<div class="hx-mt-6 hx-mb-6">
-{{< hextra/hero-section >}}
-  Selected Research Themes
-{{< /hextra/hero-section >}}
-</div>
+- Zero-Shot Learning via Semantic Similarity Embedding
+- Few-Shot and Open-Set Recognition
+- Cross-Modal Transfer Learning
+- Meta-Learning and Contextual Reinforcement Learning
 
-- **Ground truth as a process:** evaluation for complex AI systems should support evidence, adjudication, auditing, and revision.
-- **Evaluation as instrumentation:** aggregate accuracy is often insufficient; we need diagnostics that reveal why and where systems fail.
-- **Transformers as algorithmic systems:** trained models can sometimes be understood by extracting the implicit procedures they implement.
-- **Constraint-aware intelligence:** useful AI systems must decide how to allocate compute, communication, supervision, and verification under uncertainty.
-- **Learning beyond labels:** models can exploit semantic, geometric, and structural information when direct supervision is limited.
+## Neural Computation and Algorithm Discovery
+
+Why do modern neural architectures work, and what computations do they learn?
+
+Our recent work investigates transformers and in-context learning from an algorithmic perspective. Rather than viewing neural networks solely as predictors, we study when trained architectures implement identifiable computational procedures and how those procedures emerge from data and optimization.
+
+**Representative work**
+
+- Linear Transformers Implicitly Learn Numerical Algorithms
+- In-Context Learning and Recursive State Updates
+- Geometry and Token Selection in Large Language Models
+
+## Learning on Networks and Structured Data
+
+Many scientific, social, and technological systems are naturally represented as graphs and networks.
+
+We develop methods for inference, anomaly detection, community discovery, and change detection on structured data.
+
+**Representative work**
+
+- Subgraph Anomaly Detection
+- Community Detection
+- Network Change Detection
+- Statistical Learning on Graphs
+
+# Selected Themes
+
+- Learning with limited information
+- Decision-making under resource constraints
+- Evaluation under uncertainty
+- Structure and geometry in representations
+- Understanding computation in learned systems
+
+> How can intelligent systems learn, reason, and be reliably evaluated when information, resources, and ground truth are inherently limited?
