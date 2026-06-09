@@ -6,22 +6,28 @@ toc: false
 ## Current
 
 ### PhD students
-
+* [Onur Okuducu]([https://www.linkedin.com/in/onur-okuducu/?locale=en_US])
+  - **Research**: Factuality in AI systems
 * [Param Budhraja](https://www.linkedin.com/in/param-budhraja-400829154/)
   - **Research**: Contextual Reinforcement Learning
 * [Patrick Lutz](https://cs-people.bu.edu/plutz/)
   - **Research**: In-Context Learning
 * [Kevin Miller](https://cs-people.bu.edu/nivek/) (co-advised with [Kate Saenko](https://ai.bu.edu/ksaenko.html))
-  - **Research**: Domain Adaptation in Computer Vision
+  - **Research**: Science of AI Evaluation
+* [Themistoklis Haris](https://themisharis.notion.site/main))
+  - **Research**: In-Context Learning
 
 ### Research Associates
 
-* [Hadi Daneshmand](https://www.mit.edu/~hdanesh/index.html) (Postdoctoral Associate)
-  - **Research**: In-Context Learning with Large Language Models
 * [Aditya Gangrade](https://scholar.google.com/citations?user=bgNfegMAAAAJ&hl=en) (Research Scientist)
-  - **Research**: Safe Bandits
+  - **Research**: Safe Learning, In-Context Learning, Factuality in AI Systems.
+* [Arjun Chandra](https://arjunchandra2.github.io/)
+  - **Research**: Science of AI Evaluation
 
 ## Alumni
+* [Hadi Daneshmand](https://engineering.virginia.edu/faculty/hadi-daneshmand)
+  - **Current**: Assistant Professor, University of Virginia
+  - **Research**: In-Context Learning with Large Language Models
 * [Samarth Mishra](https://samarth4149.github.io/) (co-advised with [Kate Saenko](https://ai.bu.edu/ksaenko.html) (PhD 2025)
   - **Current**: SWE, Waymo
   - **Research**: Learning with Limited Supervision
