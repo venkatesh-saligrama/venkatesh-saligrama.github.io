@@ -70,8 +70,8 @@ toc: false
 * [Ziming Zhang](https://zhang-vislab.github.io/) (Postdoctoral Associate 2014-2016)
   - **Current**: Assistant Professor, WPI
   - **Research (BU)**: Zero Shot Learning, Deep Learning
-* Greg Castanon (PhD 2016)
-  - **Current**: Research Scientist, Systems and Technology Research
+* [Greg Castanon](https://www.linkedin.com/in/gregory-casta%C3%B1%C3%B3n-b99a6415/). (PhD 2016)
+  - **Current**: Chief Scientist, Systems and Technology Research
   - **Research (BU)**: Exploratory Search Through Large Video Corpora
 * [Manjesh Hanawal](http://www.ieor.iitb.ac.in/mhanawal) (Postdoctoral Associate 2014-2016)
   - **Current**: Associate Professor, IIT Bombay
