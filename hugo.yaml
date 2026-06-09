@@ -2,6 +2,10 @@ baseURL: https://venkatesh-saligrama.github.io
 languageCode: en-us
 title: Venkatesh Saligrama
 
+services:
+  googleAnalytics:
+    ID: ""
+
 # import hextra as module
 module:
   imports:
