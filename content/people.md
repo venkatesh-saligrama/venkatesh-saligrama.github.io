@@ -25,7 +25,7 @@ toc: false
   - **Research**: Science of AI Evaluation
 
 ## Alumni
-* [Hadi Daneshmand](https://engineering.virginia.edu/faculty/hadi-daneshmand)
+* [Hadi Daneshmand](https://engineering.virginia.edu/faculty/hadi-daneshmand) (Post-doctoral Associate 2024-2025)
   - **Current**: Assistant Professor, University of Virginia
   - **Research**: In-Context Learning with Large Language Models
 * [Samarth Mishra](https://samarth4149.github.io/) (co-advised with [Kate Saenko](https://ai.bu.edu/ksaenko.html) (PhD 2025)
@@ -61,8 +61,8 @@ toc: false
 * [Cem Aksoylar](https://scholar.google.com/citations?user=BwYG68UAAAAJ&hl=en) (PhD 2017)
   - **Current**: Senior Applied Scientist, Microsoft
   - **Research (BU)**: Information theory with Sparsity Constraints, Detection theory for signals on graphs
-* [Joe Wang](https://www.linkedin.com/in/joseph-wang-25a913111/) (Postdoctoral Associate 2014-2016)
-  - **Current**: Senior Machine Learning Scientist, Amazon
+* [Joe Wang](https://www.linkedin.com/in/joseph-wang-25a913111/)
+  - **Current**: Principal Scientist, Amazon
   - **Research (BU)**: Resource Constrained Learning, Deep Learning
 * [Ziming Zhang](https://zhang-vislab.github.io/) (Postdoctoral Associate 2014-2016)
   - **Current**: Assistant Professor, WPI
