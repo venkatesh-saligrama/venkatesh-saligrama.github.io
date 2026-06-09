@@ -101,7 +101,7 @@ toc: false
   - **Current**: Founder, Hyphen
   - **Research (BU)**: Video Anomaly Detection, Multi-Camera Matching, Statistical Signal Processing
 * [Shuchin Aeron](http://www.ece.tufts.edu/~shuchin/) (PhD 2008)
-  - **Current**: Associate Professor, ECE, Tufts University
+  - **Current**: Professor, ECE, Tufts University
   - **Research**: Efficient sensing and reconstruction of sparse phenomena: bounds and algorithms
 * [George Atia](http://eecs.ucf.edu/~atia/) (PhD 2008)
   - **Current**: Associate Professor, EECS, University of Central Florida
