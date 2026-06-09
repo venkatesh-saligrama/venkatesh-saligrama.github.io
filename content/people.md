@@ -14,7 +14,7 @@ toc: false
   - **Research**: In-Context Learning
 * [Kevin Miller](https://cs-people.bu.edu/nivek/) (co-advised with [Kate Saenko](https://ai.bu.edu/ksaenko.html))
   - **Research**: Science of AI Evaluation
-* [Themistoklis Haris](https://themisharis.notion.site/main))
+* [Themistoklis Haris](https://themisharis.notion.site/main)
   - **Research**: In-Context Learning
 
 ### Research Associates
@@ -53,7 +53,7 @@ toc: false
   - **Current**: Applied Research Scientist, Google DeepMind
   - **Research (BU)**: Resource Constrained Learning, Societal Impact of Machine Learning
 * [Feng Nan](https://www.linkedin.com/in/feng-nan-51564516/) (PhD 2018)
-  - **Current**: Applied Research Scientist, Amazon AWS
+  - **Current**: Research Scientist, Foundation Models, Apple Inc. 
   - **Research (BU)**: Resource Constrained Learning
 * [Yuting Chen](https://www.linkedin.com/in/yuting-chen-b5608336/) (PhD 2017)
   - **Current**: Machine Learning Manager, Adobe Research
