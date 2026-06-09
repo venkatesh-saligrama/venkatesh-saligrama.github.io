@@ -52,6 +52,9 @@ toc: false
 * [Tolga Bolukbasi](https://tolgabolukbasi.com/) (PhD 2018)
   - **Current**: Applied Research Scientist, Google DeepMind
   - **Research (BU)**: Resource Constrained Learning, Societal Impact of Machine Learning
+ [Hanxiao Wang](https://www.linkedin.com/in/feng-nan-51564516/) (Post-doctoral Associate 2017-2019)
+  - **Current**: Research Engineer, Meta 
+  - **Research (BU)**: Resource Constrained Learning
 * [Feng Nan](https://www.linkedin.com/in/feng-nan-51564516/) (PhD 2018)
   - **Current**: Research Scientist, Foundation Models, Apple Inc. 
   - **Research (BU)**: Resource Constrained Learning
